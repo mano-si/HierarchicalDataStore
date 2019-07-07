@@ -1,7 +1,7 @@
 #ignore these files
 
-HeiarchicalDataStore/bin/
-HeiarchicalDataStore/obj/
+HierarchicalDataStore/bin/
+HierarchicalDataStore/obj/
 
 *.dll
 *.exe
