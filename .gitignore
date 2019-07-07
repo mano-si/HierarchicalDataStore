@@ -6,3 +6,5 @@ HierarchicalDataStore/obj/
 *.dll
 *.exe
 *.pdb
+*.vs
+*.DS_Store
