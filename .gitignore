@@ -1,0 +1,8 @@
+#ignore these files
+
+HeiarchicalDataStore/bin/
+HeiarchicalDataStore/obj/
+
+*.dll
+*.exe
+*.pdb
