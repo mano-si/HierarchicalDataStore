@@ -1,0 +1,6 @@
+/Users/manoharsingh/Projects/Manohar.Singh.Data.Store/Manohar.Singh.Data.Store/bin/Debug/Manohar.Singh.Data.Store.exe
+/Users/manoharsingh/Projects/Manohar.Singh.Data.Store/Manohar.Singh.Data.Store/bin/Debug/Manohar.Singh.Data.Store.pdb
+/Users/manoharsingh/Projects/Manohar.Singh.Data.Store/Manohar.Singh.Data.Store/obj/x86/Debug/HierarchicalDataStore.csprojAssemblyReference.cache
+/Users/manoharsingh/Projects/Manohar.Singh.Data.Store/Manohar.Singh.Data.Store/obj/x86/Debug/HierarchicalDataStore.csproj.CoreCompileInputs.cache
+/Users/manoharsingh/Projects/Manohar.Singh.Data.Store/Manohar.Singh.Data.Store/obj/x86/Debug/Manohar.Singh.Data.Store.exe
+/Users/manoharsingh/Projects/Manohar.Singh.Data.Store/Manohar.Singh.Data.Store/obj/x86/Debug/Manohar.Singh.Data.Store.pdb
