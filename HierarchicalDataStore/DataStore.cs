@@ -32,7 +32,6 @@ namespace HierarchicalDataStore
             }
         }
 
-        // event handlers not wired yet
         public void Create(string path, string data)
         {
             string[] nodeNames = StringHelper.ParseString(path);
@@ -73,7 +72,6 @@ namespace HierarchicalDataStore
 
         }
 
-        // event handlers not wired yet
         public bool Delete(string path)
         {
             string[] nodeNames = StringHelper.ParseString(path);
@@ -118,7 +116,6 @@ namespace HierarchicalDataStore
             return true;
         }
 
-        // event handlers not wired yet
         public string Get(string path)
         {
             string[] nodeNames = StringHelper.ParseString(path);
@@ -178,7 +175,6 @@ namespace HierarchicalDataStore
             return parent.ChildNodes;
         }
 
-        // event handlers not wired yet
         public bool Update(string path, string data)
         {
             string[] nodeNames = StringHelper.ParseString(path);
