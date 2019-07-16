@@ -1,0 +1,11 @@
+C:\Users\msingh2\Manohar\GitHub\HierarchicalDataStore\HierarchicalDataStore\DriverConsole\obj\Debug\DriverConsole.csprojResolveAssemblyReference.cache
+C:\Users\msingh2\Manohar\GitHub\HierarchicalDataStore\HierarchicalDataStore\DriverConsole\obj\Debug\DriverConsole.csproj.CoreCompileInputs.cache
+C:\Users\msingh2\Manohar\GitHub\HierarchicalDataStore\HierarchicalDataStore\DriverConsole\bin\Debug\DriverConsole.exe.config
+C:\Users\msingh2\Manohar\GitHub\HierarchicalDataStore\HierarchicalDataStore\DriverConsole\bin\Debug\DriverConsole.exe
+C:\Users\msingh2\Manohar\GitHub\HierarchicalDataStore\HierarchicalDataStore\DriverConsole\bin\Debug\DriverConsole.pdb
+C:\Users\msingh2\Manohar\GitHub\HierarchicalDataStore\HierarchicalDataStore\DriverConsole\bin\Debug\Domain.dll
+C:\Users\msingh2\Manohar\GitHub\HierarchicalDataStore\HierarchicalDataStore\DriverConsole\bin\Debug\Repository.dll
+C:\Users\msingh2\Manohar\GitHub\HierarchicalDataStore\HierarchicalDataStore\DriverConsole\bin\Debug\Repository.pdb
+C:\Users\msingh2\Manohar\GitHub\HierarchicalDataStore\HierarchicalDataStore\DriverConsole\bin\Debug\Domain.pdb
+C:\Users\msingh2\Manohar\GitHub\HierarchicalDataStore\HierarchicalDataStore\DriverConsole\obj\Debug\DriverConsole.exe
+C:\Users\msingh2\Manohar\GitHub\HierarchicalDataStore\HierarchicalDataStore\DriverConsole\obj\Debug\DriverConsole.pdb
