@@ -2,6 +2,10 @@
 
 HierarchicalDataStore/bin/
 HierarchicalDataStore/obj/
+Domain/obj
+Domain/bin
+
+DriverConsole/obj/Debug
 
 *.dll
 *.exe
