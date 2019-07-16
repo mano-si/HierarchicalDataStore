@@ -1,14 +1,6 @@
-#ignore these files
-
-HierarchicalDataStore/bin/
-HierarchicalDataStore/obj/
-Domain/obj
-Domain/bin
-
-DriverConsole/obj/Debug
-
-*.dll
-*.exe
-*.pdb
-*.vs
-*.DS_Store
+*.suo
+*.user
+_ReSharper.*
+bin
+obj
+packages
