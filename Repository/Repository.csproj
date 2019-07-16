@@ -45,7 +45,7 @@
     <Compile Include="Store\DataStore.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\HierarchicalDataStore\Domain\Domain.csproj">
+    <ProjectReference Include="..\Domain\Domain.csproj">
       <Project>{b7870b1b-117f-492e-a271-77053ff534e3}</Project>
       <Name>Domain</Name>
     </ProjectReference>
