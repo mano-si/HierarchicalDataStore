@@ -1,8 +1,0 @@
-C:\Users\msingh2\Manohar\GitHub\HierarchicalDataStore\Repository\bin\Debug\Repository.dll
-C:\Users\msingh2\Manohar\GitHub\HierarchicalDataStore\Repository\bin\Debug\Repository.pdb
-C:\Users\msingh2\Manohar\GitHub\HierarchicalDataStore\Repository\bin\Debug\Domain.dll
-C:\Users\msingh2\Manohar\GitHub\HierarchicalDataStore\Repository\bin\Debug\Domain.pdb
-C:\Users\msingh2\Manohar\GitHub\HierarchicalDataStore\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
-C:\Users\msingh2\Manohar\GitHub\HierarchicalDataStore\Repository\obj\Debug\Repository.csproj.CoreCompileInputs.cache
-C:\Users\msingh2\Manohar\GitHub\HierarchicalDataStore\Repository\obj\Debug\Repository.dll
-C:\Users\msingh2\Manohar\GitHub\HierarchicalDataStore\Repository\obj\Debug\Repository.pdb
